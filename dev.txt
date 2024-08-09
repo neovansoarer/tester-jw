@@ -1,3 +1,1 @@
-asdfasdfadsf
-asdfsdfasdf
-HOT FIX
+이것은 dev 브랜치에서 고친 내용이다.
